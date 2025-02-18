@@ -1,22 +1,30 @@
-### <div align="center">🚀 Sobre mi:
-¡Hola! Soy Lautaro Mabras, un estudiante de 18 años de Argentina. Actualmente, estoy estudiando para convertirme en un ingeniero informatico en la Facultad de Buenos Aires, y estoy aprendiendo diferentes lenguajes de programación, incluyendo HTML, CSS y JavaScript. Soy una persona muy consistente y me enfoco en alcanzar mis metas con dedicación y esfuerzo.<br>En mi tiempo libre, disfruto de leer y ver videos de programación para aprender aún más sobre este apasionante mundo.</div>  
+### <div align="center">About me:
+Hello! I’m Lautaro Mabras, and I’m currently studying to become a computer engineer at the University of Buenos Aires. I’m learning various programming languages, such as Python, C, and JavaScript. I am a very consistent person who focuses on achieving my goals with dedication and effort.</div>  
   
 
 <br/>  
 
 
-## 💻 Tech Stack: 
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-</div>  
+## Tech Stack: 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
 
 <br/>  
 
 
-## 🌐 Redes Sociales: 
+## Social media: 
 <div align="center">
 <a href="https://github.com/LautaroMabrass" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
