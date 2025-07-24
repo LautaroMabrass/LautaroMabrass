@@ -1,28 +1,6 @@
-### <div align="center">About me:
-Hello! I’m Lautaro Mabras, and I’m currently studying to become a computer engineer at the University of Buenos Aires. I’m learning various programming languages, such as Python, C, and JavaScript. I am a very consistent person who focuses on achieving my goals with dedication and effort.</div>  
-  
-
+### <div align="center">Sobre mi:
+Actualmente estudio Ingeniería en Informática en la Universidad de Buenos Aires. Estoy aprendiendo varios lenguajes de programación y adquiriendo buenas prácticas tanto a través de mis estudios formales como de manera autodidacta. Me considero una persona constante y enfocada en alcanzar sus metas.</div>   
 <br/>  
-
-
-## Tech Stack: 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-
-<br/>  
-
 
 ## Social media: 
 <div align="center">
