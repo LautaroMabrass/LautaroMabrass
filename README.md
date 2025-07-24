@@ -1,5 +1,5 @@
 ### <div align="center">Sobre mi:
-Actualmente estudio Ingeniería en Informática en la Universidad de Buenos Aires. Estoy aprendiendo varios lenguajes de programación y adquiriendo buenas prácticas tanto a través de mis estudios formales como de manera autodidacta. Me considero una persona constante y enfocada en alcanzar sus metas.</div>   
+Actualmente estoy aprendiendo varios lenguajes de programación y adquiriendo buenas prácticas tanto a través de mis estudios formales como de manera autodidacta. Me considero una persona constante y enfocada en alcanzar sus metas.</div>   
 <br/>  
 
 ## Social media: 
